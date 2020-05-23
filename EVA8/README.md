@@ -50,21 +50,21 @@ Train vs Test Accuracy:
 
 Class Wise Accuracies:
 
-Accuracy of plane : 91 %
+Accuracy of plane : 93 %
 
-Accuracy of   car : 93 %
+Accuracy of   car : 97 %
 
-Accuracy of  bird : 91 %
+Accuracy of  bird : 88 %
 
-Accuracy of   cat : 83 %
+Accuracy of   cat : 85 %
 
-Accuracy of  deer : 94 %
+Accuracy of  deer : 93 %
 
-Accuracy of   dog : 83 %
+Accuracy of   dog : 89 %
 
-Accuracy of  frog : 94 %
+Accuracy of  frog : 92 %
 
-Accuracy of horse : 92 %
+Accuracy of horse : 91 %
 
-Accuracy of  ship : 96 %
-Accuracy of truck : 95 %
+Accuracy of  ship : 92 %
+Accuracy of truck : 93 %
