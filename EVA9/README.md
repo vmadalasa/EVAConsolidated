@@ -74,11 +74,11 @@ Heatmap
 
 Train and Test Accuracies and Loss:
 
-![Test-Train Accuracy and Loss.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA9/Images/Test-Train Accuracy and Loss.png)
+![Loss.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA9/Images/Loss.png)
 
 Train vs Test Accuracy:
 
-![Test-vs-Train Accuracy.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA9/Images/Test-vs-Train Accuracy.png)
+![Accuracy.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA9/Images/Accuracy.png)
 
 Class Wise Accuracy
 
