@@ -62,7 +62,7 @@ Achieved accuracy of
 
 Misclassified images
 
-![MisClassifiedImages.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA9/Images/MisClassify.png)
+![MisClassifiedImages.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA9/Images/MisClassifiedImages.png)
 
 GradCAM images
 
@@ -74,11 +74,11 @@ Heatmap
 
 Train and Test Accuracies and Loss:
 
-![Test-Train Accuracy and Loss.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA9/Images/LossandAcc.png)
+![Test-Train Accuracy and Loss.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA9/Images/Test-Train Accuracy and Loss.png)
 
 Train vs Test Accuracy:
 
-![Test-vs-Train Accuracy.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA9/Images/TestvTrainAcc.png)
+![Test-vs-Train Accuracy.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA9/Images/Test-vs-Train Accuracy.png)
 
 Class Wise Accuracy
 
