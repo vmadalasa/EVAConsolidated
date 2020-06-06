@@ -77,21 +77,21 @@ GradCAM of misclassified images
 
 Objective - Wrt predicted class (wrong class) to see what went wrong/what was done in the DNN
 
-![GradCAM.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA9/Images/GradCAM.png)
+![GradCAM.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA10/Images/GradCAM.png)
 
 Gradcam images wrt actual (correct) class
 
 Objective - to see what should have been done
 
-![GradCAM2.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA9/Images/GradCAM2.png)
+![GradCAM2.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA10/Images/GradCAM2.png)
 
 Train and Test Accuracies and Loss:
 
-![Loss.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA9/Images/Loss.png)
+![Loss.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA10/Images/Loss.png)
 
 Train vs Test Accuracy:
 
-![Accuracy.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA9/Images/Accuracy.png)
+![Accuracy.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA10/Images/Accuracy.png)
 
 **Class Wise Accuracy**
 
