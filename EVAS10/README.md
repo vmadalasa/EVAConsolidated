@@ -71,7 +71,7 @@ Achieved accuracy of
 
 Misclassified images
 
-![MisClass.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS10/Images/MisClass.png)
+![Misclass.png](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS10/Images/Misclass.png)
 
 GradCAM of misclassified images
 
