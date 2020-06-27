@@ -1,0 +1,1746 @@
+{
+   "_via_settings":{
+      "ui":{
+         "annotation_editor_height":25,
+         "annotation_editor_fontsize":0.9,
+         "leftsidebar_width":18,
+         "image_grid":{
+            "img_height":80,
+            "rshape_fill":"none",
+            "rshape_fill_opacity":0.3,
+            "rshape_stroke":"yellow",
+            "rshape_stroke_width":2,
+            "show_region_shape":true,
+            "show_image_policy":"all"
+         },
+         "image":{
+            "region_label":"name",
+            "region_color":"Imagewithinpicture",
+            "region_label_font":"10px Sans",
+            "on_image_annotation_editor_placement":"NEAR_REGION"
+         }
+      },
+      "core":{
+         "buffer_size":18,
+         "filepath":{
+
+         },
+         "default_filepath":""
+      },
+      "project":{
+         "name":"MV_project_25Jun2020_13h19m"
+      }
+   },
+   "_via_img_metadata":{
+      "dog 2.jpg9442":{
+         "filename":"dog 2.jpg",
+         "size":9442,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":50,
+                  "y":23,
+                  "width":242,
+                  "height":136
+               },
+               "region_attributes":{
+                  "name":"Doglyingdown",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"Dog lying down on grass",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 1.jpg4689":{
+         "filename":"dog 1.jpg",
+         "size":4689,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":39,
+                  "y":1,
+                  "width":211,
+                  "height":169
+               },
+               "region_attributes":{
+                  "name":"dogselfie",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"no"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog selfie",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "extra dog 2.jpg7509":{
+         "filename":"extra dog 2.jpg",
+         "size":7509,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":17,
+                  "y":3,
+                  "width":232,
+                  "height":190
+               },
+               "region_attributes":{
+                  "name":"Dogwithtoungue",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "good_illumination":true,
+                     "blur":true
+                  },
+                  "Imagewithinpicture":"no"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"Dog with tongue out",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 55.jpg5938":{
+         "filename":"dog 55.jpg",
+         "size":5938,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":43,
+                  "y":3,
+                  "width":180,
+                  "height":177
+               },
+               "region_attributes":{
+                  "name":"dogselfie",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"no"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"grumpy Dog selfie",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 54.jpg6965":{
+         "filename":"dog 54.jpg",
+         "size":6965,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":26,
+                  "y":2,
+                  "width":162,
+                  "height":190
+               },
+               "region_attributes":{
+                  "name":"dogfrontal",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true,
+                     "blur":true
+                  },
+                  "Imagewithinpicture":"no"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"Brown indie dog",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 53.jpg10992":{
+         "filename":"dog 53.jpg",
+         "size":10992,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":15,
+                  "y":2,
+                  "width":238,
+                  "height":182
+               },
+               "region_attributes":{
+                  "name":"dogsleeping",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog hugging teddybear",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 52.jpg5495":{
+         "filename":"dog 52.jpg",
+         "size":5495,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":47,
+                  "y":2,
+                  "width":169,
+                  "height":197
+               },
+               "region_attributes":{
+                  "name":"dogfrontal",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true,
+                     "blur":true
+                  },
+                  "Imagewithinpicture":"no"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"Dog with collar looking at camera",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 51.jpg5085":{
+         "filename":"dog 51.jpg",
+         "size":5085,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":90,
+                  "y":12,
+                  "width":104,
+                  "height":169
+               },
+               "region_attributes":{
+                  "name":"dogselfie",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true,
+                     "blur":true
+                  },
+                  "Imagewithinpicture":"no"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"Fluffy dog sitting",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 50.jpg5577":{
+         "filename":"dog 50.jpg",
+         "size":5577,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":122,
+                  "y":2,
+                  "width":176,
+                  "height":120
+               },
+               "region_attributes":{
+                  "name":"dogselfie",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true,
+                     "blur":true
+                  },
+                  "Imagewithinpicture":"no"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"black and white dog on leash",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 49.jpg5484":{
+         "filename":"dog 49.jpg",
+         "size":5484,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":48,
+                  "y":37,
+                  "width":187,
+                  "height":143
+               },
+               "region_attributes":{
+                  "name":"dogselfie",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"no"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"brown dog selfie ",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 48.jpg6399":{
+         "filename":"dog 48.jpg",
+         "size":6399,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":90,
+                  "y":10,
+                  "width":142,
+                  "height":172
+               },
+               "region_attributes":{
+                  "name":"dogfrontal",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"no"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"Black dog selfie with toungue out",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 47.jpg6807":{
+         "filename":"dog 47.jpg",
+         "size":6807,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":68,
+                  "y":3,
+                  "width":189,
+                  "height":189
+               },
+               "region_attributes":{
+                  "name":"dogfrontal",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true,
+                     "blur":true
+                  }
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog with tongue out and staring into camera",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 46.jpg7681":{
+         "filename":"dog 46.jpg",
+         "size":7681,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":53,
+                  "y":33,
+                  "width":81,
+                  "height":146
+               },
+               "region_attributes":{
+                  "name":"dogsitting",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog in classic sitting pose on grass in fromnt of fence",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 45.jpg7051":{
+         "filename":"dog 45.jpg",
+         "size":7051,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":9,
+                  "y":4,
+                  "width":143,
+                  "height":313
+               },
+               "region_attributes":{
+                  "name":"dogfrontal",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"classic full dog in running pose",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 44.jpg6111":{
+         "filename":"dog 44.jpg",
+         "size":6111,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":31,
+                  "y":9,
+                  "width":171,
+                  "height":154
+               },
+               "region_attributes":{
+                  "name":"dogsleeping",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog lying down pose frontal view",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 43.jpg9871":{
+         "filename":"dog 43.jpg",
+         "size":9871,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":37,
+                  "y":32,
+                  "width":164,
+                  "height":190
+               },
+               "region_attributes":{
+                  "name":"dogselfie",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"no"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog selfie with tongue out",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 42.jpg6528":{
+         "filename":"dog 42.jpg",
+         "size":6528,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":51,
+                  "y":34,
+                  "width":190,
+                  "height":136
+               },
+               "region_attributes":{
+                  "name":"dogstanding",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog sideways selfie",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 41.jpg6015":{
+         "filename":"dog 41.jpg",
+         "size":6015,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":30,
+                  "y":23,
+                  "width":193,
+                  "height":201
+               },
+               "region_attributes":{
+                  "name":"dogselfie",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"no"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dogselfie with tongue out",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 40.jpg7719":{
+         "filename":"dog 40.jpg",
+         "size":7719,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":59,
+                  "y":46,
+                  "width":92,
+                  "height":159
+               },
+               "region_attributes":{
+                  "name":"dogsitting",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"sitting dog on leash",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 39.jpg11486":{
+         "filename":"dog 39.jpg",
+         "size":11486,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":44,
+                  "y":16,
+                  "width":228,
+                  "height":164
+               },
+               "region_attributes":{
+                  "name":"doglying",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true,
+                     "blur":true
+                  },
+                  "Imagewithinpicture":"no"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog sitting on grass",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 38.jpg9258":{
+         "filename":"dog 38.jpg",
+         "size":9258,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":11,
+                  "y":5,
+                  "width":213,
+                  "height":177
+               },
+               "region_attributes":{
+                  "name":"dogsitting",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"no"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"sitting dog",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 37.jpg8531":{
+         "filename":"dog 37.jpg",
+         "size":8531,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":2,
+                  "y":1,
+                  "width":241,
+                  "height":149
+               },
+               "region_attributes":{
+                  "name":"dogsleeping",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"doglying down",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 35.jpg5612":{
+         "filename":"dog 35.jpg",
+         "size":5612,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":65,
+                  "y":18,
+                  "width":208,
+                  "height":162
+               },
+               "region_attributes":{
+                  "name":"dogsideways",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"no"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog with tongue out",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 34.jpg5683":{
+         "filename":"dog 34.jpg",
+         "size":5683,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":21,
+                  "y":32,
+                  "width":216,
+                  "height":110
+               },
+               "region_attributes":{
+                  "name":"dogsleeping",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog sleeping",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 33.jpg8881":{
+         "filename":"dog 33.jpg",
+         "size":8881,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":102,
+                  "y":2,
+                  "width":85,
+                  "height":173
+               },
+               "region_attributes":{
+                  "name":"dogsitting",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog sitting on grass",
+            "public_domain":"no",
+            "image_url":""
+         }
+      },
+      "dog 32.jpg7256":{
+         "filename":"dog 32.jpg",
+         "size":7256,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":62,
+                  "y":-1,
+                  "width":198,
+                  "height":162
+               },
+               "region_attributes":{
+                  "name":"dogstanding",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog standing sideways",
+            "public_domain":"no",
+            "image_url":""
+         }
+      },
+      "dog 31.jpg7688":{
+         "filename":"dog 31.jpg",
+         "size":7688,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":20,
+                  "y":3,
+                  "width":257,
+                  "height":139
+               },
+               "region_attributes":{
+                  "name":"",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  }
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"",
+            "public_domain":"no",
+            "image_url":""
+         }
+      },
+      "dog 30.jpg9045":{
+         "filename":"dog 30.jpg",
+         "size":9045,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":36,
+                  "y":15,
+                  "width":203,
+                  "height":180
+               },
+               "region_attributes":{
+                  "name":"dogstanding",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog standing sideways",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 29.jpg4868":{
+         "filename":"dog 29.jpg",
+         "size":4868,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":61,
+                  "y":9,
+                  "width":187,
+                  "height":154
+               },
+               "region_attributes":{
+                  "name":"doglying",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog lying on floor tongue out",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 28.jpg7253":{
+         "filename":"dog 28.jpg",
+         "size":7253,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":51,
+                  "y":3,
+                  "width":215,
+                  "height":161
+               },
+               "region_attributes":{
+                  "name":"dogstanding",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog standing sideways",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 26.jpg9394":{
+         "filename":"dog 26.jpg",
+         "size":9394,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":99,
+                  "y":36,
+                  "width":111,
+                  "height":114
+               },
+               "region_attributes":{
+                  "name":"dogsitting",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"fluffy white dog sitting on grass",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 25.jpg8431":{
+         "filename":"dog 25.jpg",
+         "size":8431,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":21,
+                  "y":24,
+                  "width":178,
+                  "height":183
+               },
+               "region_attributes":{
+                  "name":"dogstanding",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dogstanding sideways view with sky backgrounf",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 24.jpg6921":{
+         "filename":"dog 24.jpg",
+         "size":6921,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":25,
+                  "y":37,
+                  "width":165,
+                  "height":128
+               },
+               "region_attributes":{
+                  "name":"dogstanding",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog standing facing sideways on grass",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 23.jpg4754":{
+         "filename":"dog 23.jpg",
+         "size":4754,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":12,
+                  "y":11,
+                  "width":220,
+                  "height":173
+               },
+               "region_attributes":{
+                  "name":"doglying",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog sitting on floor white background.",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 22.jpg3270":{
+         "filename":"dog 22.jpg",
+         "size":3270,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":3,
+                  "y":18,
+                  "width":175,
+                  "height":163
+               },
+               "region_attributes":{
+                  "name":"dogstanding",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog standing profile view white background",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 21.jpg8599":{
+         "filename":"dog 21.jpg",
+         "size":8599,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":3,
+                  "y":12,
+                  "width":163,
+                  "height":284
+               },
+               "region_attributes":{
+                  "name":"dogselfie",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dalmatian dog sitting on floor, white background",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 20.jpg5863":{
+         "filename":"dog 20.jpg",
+         "size":5863,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":5,
+                  "y":3,
+                  "width":273,
+                  "height":170
+               },
+               "region_attributes":{
+                  "name":"dogstandinh",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dachund standing sideways profile view white background",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 19.jpg7702":{
+         "filename":"dog 19.jpg",
+         "size":7702,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":6,
+                  "y":12,
+                  "width":241,
+                  "height":154
+               },
+               "region_attributes":{
+                  "name":"doglying",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  }
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog sitting on sofa",
+            "public_domain":"no",
+            "image_url":""
+         }
+      },
+      "dog 18.jpg12281":{
+         "filename":"dog 18.jpg",
+         "size":12281,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":88,
+                  "y":15,
+                  "width":158,
+                  "height":157
+               },
+               "region_attributes":{
+                  "name":"dogsitting",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dirty dog sitting in the middle of the road",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 17.jpg7253":{
+         "filename":"dog 17.jpg",
+         "size":7253,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":94,
+                  "y":3,
+                  "width":97,
+                  "height":146
+               },
+               "region_attributes":{
+                  "name":"dogstanding",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog standing on mud path",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 16.jpg9100":{
+         "filename":"dog 16.jpg",
+         "size":9100,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":23,
+                  "y":1,
+                  "width":147,
+                  "height":175
+               },
+               "region_attributes":{
+                  "name":"dogstanding",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog standing sideways on paved road",
+            "public_domain":"no",
+            "image_url":""
+         }
+      },
+      "dog 15.jpg8364":{
+         "filename":"dog 15.jpg",
+         "size":8364,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":37,
+                  "y":7,
+                  "width":188,
+                  "height":166
+               },
+               "region_attributes":{
+                  "name":"dogsitting",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"toy breed of dog sitting on sofa",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 14.jpg7085":{
+         "filename":"dog 14.jpg",
+         "size":7085,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":31,
+                  "y":7,
+                  "width":233,
+                  "height":173
+               },
+               "region_attributes":{
+                  "name":"doglying",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog lying on grass with tongue out",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 13.jpg6987":{
+         "filename":"dog 13.jpg",
+         "size":6987,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":50,
+                  "y":2,
+                  "width":177,
+                  "height":177
+               },
+               "region_attributes":{
+                  "name":"dogfrontal",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog standing frontal",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 11.jpg8430":{
+         "filename":"dog 11.jpg",
+         "size":8430,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":77,
+                  "y":15,
+                  "width":133,
+                  "height":156
+               },
+               "region_attributes":{
+                  "name":"dogstanding",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"standing dog",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 10.jpg5391":{
+         "filename":"dog 10.jpg",
+         "size":5391,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":71,
+                  "y":87,
+                  "width":163,
+                  "height":74
+               },
+               "region_attributes":{
+                  "name":"doglying",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog in down pose",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 9.jpg5893":{
+         "filename":"dog 9.jpg",
+         "size":5893,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":3,
+                  "y":21,
+                  "width":279,
+                  "height":145
+               },
+               "region_attributes":{
+                  "name":"dogsleeping",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog in classic sleeping pose",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 8.jpg8142":{
+         "filename":"dog 8.jpg",
+         "size":8142,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":49,
+                  "y":2,
+                  "width":123,
+                  "height":181
+               },
+               "region_attributes":{
+                  "name":"dogstanding",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"standing dog with ball",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 7.jpg10841":{
+         "filename":"dog 7.jpg",
+         "size":10841,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":16,
+                  "y":23,
+                  "width":180,
+                  "height":161
+               },
+               "region_attributes":{
+                  "name":"doglying",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog sitting on grass",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 6.jpg10761":{
+         "filename":"dog 6.jpg",
+         "size":10761,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":120,
+                  "y":25,
+                  "width":108,
+                  "height":147
+               },
+               "region_attributes":{
+                  "name":"dogsitting",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "good_illumination":true,
+                     "blur":true
+                  }
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"puppy in sitting pose, tongue out ",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 5.jpg7245":{
+         "filename":"dog 5.jpg",
+         "size":7245,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":145,
+                  "y":5,
+                  "width":123,
+                  "height":160
+               },
+               "region_attributes":{
+                  "name":"dogsitting",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog in classic sitting pose Pug",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 4.jpg6733":{
+         "filename":"dog 4.jpg",
+         "size":6733,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":36,
+                  "y":1,
+                  "width":242,
+                  "height":154
+               },
+               "region_attributes":{
+                  "name":"dogfrontal",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "blur":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog in classic down pose",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      },
+      "dog 3.jpg10682":{
+         "filename":"dog 3.jpg",
+         "size":10682,
+         "regions":[
+            {
+               "shape_attributes":{
+                  "name":"rect",
+                  "x":50,
+                  "y":27,
+                  "width":115,
+                  "height":216
+               },
+               "region_attributes":{
+                  "name":"dogsitting",
+                  "type":"DOG",
+                  "image_quality":{
+                     "good":true,
+                     "frontal":true,
+                     "good_illumination":true
+                  },
+                  "Imagewithinpicture":"yes"
+               }
+            }
+         ],
+         "file_attributes":{
+            "caption":"dog in classic sitting pose, white with tongue out",
+            "public_domain":"yes",
+            "image_url":""
+         }
+      }
+   },
+   "_via_attributes":{
+      "region":{
+         "name":{
+            "type":"text",
+            "description":"Name of the object",
+            "default_value":""
+         },
+         "type":{
+            "type":"dropdown",
+            "description":"Category of object",
+            "options":{
+               "bird":"Bird",
+               "human":"Human",
+               "cup":"Cup (object)",
+               "unknown":"Unknown (object)",
+               "DOG":"dog"
+            },
+            "default_options":{
+               "DOG":true
+            }
+         },
+         "image_quality":{
+            "type":"checkbox",
+            "description":"Quality of image region",
+            "options":{
+               "blur":"Blurred region",
+               "good_illumination":"Good Illumination",
+               "frontal":"Object in Frontal View"
+            },
+            "default_options":{
+               "good":true,
+               "frontal":true,
+               "good_illumination":true
+            }
+         },
+         "Imagewithinpicture":{
+            "type":"radio",
+            "description":"",
+            "options":{
+               "yes":"",
+               "no":""
+            },
+            "default_options":{
+
+            }
+         }
+      },
+      "file":{
+         "caption":{
+            "type":"text",
+            "description":"",
+            "default_value":""
+         },
+         "public_domain":{
+            "type":"radio",
+            "description":"",
+            "options":{
+               "yes":"Yes",
+               "no":"No"
+            },
+            "default_options":{
+               "no":true
+            }
+         },
+         "image_url":{
+            "type":"text",
+            "description":"",
+            "default_value":""
+         }
+      }
+   },
+   "_via_data_format_version":"2.0.10",
+   "_via_image_id_list":[
+      "dog 2.jpg9442",
+      "dog 1.jpg4689",
+      "extra dog 2.jpg7509",
+      "dog 55.jpg5938",
+      "dog 54.jpg6965",
+      "dog 53.jpg10992",
+      "dog 52.jpg5495",
+      "dog 51.jpg5085",
+      "dog 50.jpg5577",
+      "dog 49.jpg5484",
+      "dog 48.jpg6399",
+      "dog 47.jpg6807",
+      "dog 46.jpg7681",
+      "dog 45.jpg7051",
+      "dog 44.jpg6111",
+      "dog 43.jpg9871",
+      "dog 42.jpg6528",
+      "dog 41.jpg6015",
+      "dog 40.jpg7719",
+      "dog 39.jpg11486",
+      "dog 38.jpg9258",
+      "dog 37.jpg8531",
+      "dog 35.jpg5612",
+      "dog 34.jpg5683",
+      "dog 33.jpg8881",
+      "dog 32.jpg7256",
+      "dog 31.jpg7688",
+      "dog 30.jpg9045",
+      "dog 29.jpg4868",
+      "dog 28.jpg7253",
+      "dog 26.jpg9394",
+      "dog 25.jpg8431",
+      "dog 24.jpg6921",
+      "dog 23.jpg4754",
+      "dog 22.jpg3270",
+      "dog 21.jpg8599",
+      "dog 20.jpg5863",
+      "dog 19.jpg7702",
+      "dog 18.jpg12281",
+      "dog 17.jpg7253",
+      "dog 16.jpg9100",
+      "dog 15.jpg8364",
+      "dog 14.jpg7085",
+      "dog 13.jpg6987",
+      "dog 11.jpg8430",
+      "dog 10.jpg5391",
+      "dog 9.jpg5893",
+      "dog 8.jpg8142",
+      "dog 7.jpg10841",
+      "dog 6.jpg10761",
+      "dog 5.jpg7245",
+      "dog 4.jpg6733",
+      "dog 3.jpg10682"
+   ]
+}
