@@ -56,6 +56,8 @@ Goal for Part B
   6. Share the link of your YouTube video
 
 Please find the colab file at the location
+https://colab.research.google.com/drive/1e9BaZ4tzTgnjNbQqm8zvMOu7sCBpE3eo
+
 
 The class chosen was &#39;GUITAR&#39;, which is not in the coco set.
 
