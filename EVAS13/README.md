@@ -66,3 +66,5 @@ The annotation tool was utilised to annotate the images for the class chosen. Cu
 The yolov3-spp.cfg was customised to account for the number of channels. The custom data was passed into the YOLOv3 and trained using these 500 images.
 
 Training was run for 300 epochs. At the end of the training, about 70 images were converted into a video where guitar detection was shown as per the outcome of the YOLOv3.
+
+Youtube link https://youtu.be/1PQSRCehMgw
