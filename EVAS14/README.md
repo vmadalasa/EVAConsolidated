@@ -43,17 +43,23 @@ Depth images are created by using the mask on bg images (unflipped and flipped) 
 **Dataset Samples**
 
 Background: 
-[Background](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/bg1.jpg)
-[Background series](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/bg_images.png)
+![Background](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/bg1.jpg)
+![Background series](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/bg_images.png)
 
 Foreground-Background: 
-
+!(https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/1FGFLIP_BG_flip_fg_fg001_bg_bg1_01.jpg)
 
 Foreground-Background Mask: 
+![Mask](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/fg-001-mask.png)
+!(https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/1FGMFflip_mask_fg001-mask_bg_black_image192_001_01.jpg)
+!(https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/1FG_MASKbase_mask_fg001-mask_bg_black_image192_001_01.jpg)
+!(https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/Fg-bg-mask.png)
 
 
 Foreground-Background Depth: 
-[background](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/bg94.jpg)
+![background](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/bg94.jpg)
+![Depth](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/fg021flip_bg94_05.jpg)
+!(https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/fg021flip_bg94_08.jpg)
 
 **Notations**
 
