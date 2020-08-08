@@ -63,9 +63,14 @@ Foreground-Background Mask:
 
 
 Foreground-Background Depth: 
+
 ![background](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/bg94.jpg)
+
 ![Depth](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/fg021flip_bg94_05.jpg)
-!(https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/fg021flip_bg94_08.jpg)
+
+![Depth2] (https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/fg021flip_bg94_08.jpg)
+
+![depth examples](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/Depth-masks.png)
 
 **Notations**
 
