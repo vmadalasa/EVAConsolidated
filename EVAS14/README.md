@@ -89,6 +89,7 @@ Depth map prediction: depth_pred
 All Images are available in this link https://drive.google.com/drive/folders/1E8V1RUeF--_THXxJ06j7L4vYxOGnlVIk?usp=sharing
 
 **Stats**
+using np.std(numpy_images, axis=(0, 2, 3)); np.mean(numpy_images, axis=(0, 2, 3))
 
     Foreground Background images:
         Mean: [0.582124 0.579472 0.567419]
