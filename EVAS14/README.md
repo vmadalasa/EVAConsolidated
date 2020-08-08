@@ -43,7 +43,8 @@ Depth images are created by using the mask on bg images (unflipped and flipped) 
 **Dataset Samples**
 
 Background: 
-
+[Background](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/bg1.jpg)
+[Background series](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/bg_images.png)
 
 Foreground-Background: 
 
@@ -52,6 +53,7 @@ Foreground-Background Mask:
 
 
 Foreground-Background Depth: 
+[background](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/bg94.jpg)
 
 **Notations**
 
