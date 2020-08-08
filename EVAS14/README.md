@@ -67,6 +67,8 @@ Mask prediction: mask_pred
 
 Depth map prediction: depth_pred
 
+All Images are available in this link https://drive.google.com/drive/folders/1E8V1RUeF--_THXxJ06j7L4vYxOGnlVIk?usp=sharing
+
 **learnings**
 
 1. OOM is a constant problem in depth models. 
