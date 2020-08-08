@@ -88,6 +88,13 @@ Depth map prediction: depth_pred
 
 All Images are available in this link https://drive.google.com/drive/folders/1E8V1RUeF--_THXxJ06j7L4vYxOGnlVIk?usp=sharing
 
+**Stats**
+
+    Foreground Background images:
+        Mean: [0.582124 0.579472 0.567419]
+        Standard Deviation: [0.22423423 0.23696194 0.24423425]
+
+
 **learnings**
 
 1. OOM is a constant problem in depth models. 
@@ -104,5 +111,6 @@ total time taken - fg/bg ; flip fg/bg, mask fg_bg and flip_mask fg_bg --> total 
 
 Depth model - 21 hours in total. 
 
+https://discuss.pytorch.org/t/about-normalization-using-pre-trained-vgg16-networks/23560/6
 
 
