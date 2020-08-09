@@ -1,4 +1,4 @@
-# EVAS15 - Monocular Depth Estimation
+# EVAS15 - Image Segmentation
 
 
 Objective
@@ -125,6 +125,176 @@ batch size was an issue, so converted the entire train into batches of 200k.
 I did lost one folder of about 10K images to bad naming conventions and the like, so the final training was on around 3,60,000 images for the segmentation.
 
 ![Model](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS15/model.png)
+
+UNet(
+
+(convblock1): Sequential(
+
+(0): Conv2d(6, 64, kernel\_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+
+(1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(2): ReLU()
+
+(3): Conv2d(64, 64, kernel\_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+
+(4): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(5): ReLU()
+
+)
+
+(pool1): MaxPool2d(kernel\_size=2, stride=2, padding=0, dilation=1, ceil\_mode=False)
+
+(convblock2): Sequential(
+
+(0): Conv2d(64, 128, kernel\_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+
+(1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(2): ReLU()
+
+(3): Conv2d(128, 128, kernel\_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+
+(4): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(5): ReLU()
+
+)
+
+(pool2): MaxPool2d(kernel\_size=2, stride=2, padding=0, dilation=1, ceil\_mode=False)
+
+(convblock3): Sequential(
+
+(0): Conv2d(128, 256, kernel\_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+
+(1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(2): ReLU()
+
+(3): Conv2d(256, 256, kernel\_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+
+(4): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(5): ReLU()
+
+)
+
+(pool3): MaxPool2d(kernel\_size=2, stride=2, padding=0, dilation=1, ceil\_mode=False)
+
+(convblock4): Sequential(
+
+(0): Conv2d(256, 512, kernel\_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+
+(1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(2): ReLU()
+
+(3): Conv2d(512, 512, kernel\_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+
+(4): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(5): ReLU()
+
+)
+
+(pool4): MaxPool2d(kernel\_size=2, stride=2, padding=0, dilation=1, ceil\_mode=False)
+
+(base): Sequential(
+
+(0): Conv2d(512, 1024, kernel\_size=(3, 3), stride=(1, 1), bias=False)
+
+(1): BatchNorm2d(1024, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(2): ReLU()
+
+(3): Conv2d(1024, 1024, kernel\_size=(3, 3), stride=(1, 1), bias=False)
+
+(4): BatchNorm2d(1024, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(5): ReLU()
+
+(6): ConvTranspose2d(1024, 512, kernel\_size=(3, 3), stride=(2, 2), padding=(1, 1), output\_padding=(1, 1), bias=False)
+
+)
+
+(convblock5): Sequential(
+
+(0): Conv2d(1024, 512, kernel\_size=(3, 3), stride=(1, 1), bias=False)
+
+(1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(2): ReLU()
+
+(3): Conv2d(512, 512, kernel\_size=(3, 3), stride=(1, 1), bias=False)
+
+(4): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(5): ReLU()
+
+(6): ConvTranspose2d(512, 256, kernel\_size=(3, 3), stride=(2, 2), padding=(1, 1), output\_padding=(1, 1), bias=False)
+
+)
+
+(convblock6): Sequential(
+
+(0): Conv2d(512, 256, kernel\_size=(3, 3), stride=(1, 1), bias=False)
+
+(1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(2): ReLU()
+
+(3): Conv2d(256, 256, kernel\_size=(3, 3), stride=(1, 1), bias=False)
+
+(4): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(5): ReLU()
+
+(6): ConvTranspose2d(256, 128, kernel\_size=(3, 3), stride=(2, 2), padding=(1, 1), output\_padding=(1, 1), bias=False)
+
+)
+
+(convblock7): Sequential(
+
+(0): Conv2d(256, 128, kernel\_size=(3, 3), stride=(1, 1), bias=False)
+
+(1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(2): ReLU()
+
+(3): Conv2d(128, 128, kernel\_size=(3, 3), stride=(1, 1), bias=False)
+
+(4): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(5): ReLU()
+
+(6): ConvTranspose2d(128, 64, kernel\_size=(3, 3), stride=(2, 2), padding=(1, 1), output\_padding=(1, 1), bias=False)
+
+)
+
+(convblock\_final): Sequential(
+
+(0): Conv2d(128, 64, kernel\_size=(3, 3), stride=(1, 1), bias=False)
+
+(1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(2): ReLU()
+
+(3): Conv2d(64, 64, kernel\_size=(3, 3), stride=(1, 1), bias=False)
+
+(4): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(5): ReLU()
+
+(6): Conv2d(64, 1, kernel\_size=(3, 3), stride=(1, 1), bias=False)
+
+(7): BatchNorm2d(1, eps=1e-05, momentum=0.1, affine=True, track\_running\_stats=True)
+
+(8): ReLU()
+
+)
+
+)
 
 Steps:
 
