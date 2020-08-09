@@ -177,13 +177,13 @@ Didnt do a good job on model evaluation.
 
 Model : https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS15/unet.py
 
-Colab : https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS15/ImageSegmentation.ipyn
+Colab : https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS15/ImageSegmentation.ipynb
 
 Train, test, dataloader , Albumentation, trans : https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS15/Code/utils.py
 
 Dataset : https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/
 
-Loss functions are in the colabnotebook
+Loss functions are in the colabnotebook and graphs are in https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS15/Images/
 
 
 
