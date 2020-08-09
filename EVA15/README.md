@@ -124,7 +124,7 @@ but they did not give the requisite model validations. (I had a 70/30 train/vali
 batch size was an issue, so converted the entire train into batches of 200k. 
 I did lost one folder of about 10K images to bad naming conventions and the like, so the final training was on around 3,60,000 images for the segmentation.
 
-![Model](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS15/model.png)
+![Model](https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA15/model.png)
 
 UNet(
 
@@ -347,7 +347,7 @@ Didnt do a good job on model evaluation.
 
 ##Code Links 
 
-Model : https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS15/unet.py
+Model : https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA15/unet.py
 
 Colab : https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA15/ImageSeg_using_UNET_MVEVA15.ipynb
 
@@ -355,7 +355,7 @@ Train, test, dataloader , Albumentation, trans : https://github.com/vmadalasa/EV
 
 Dataset : https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS14/Assignment14Images/
 
-Loss functions are in the colabnotebook and graphs are in https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS15/Images/
+Loss functions are in the colabnotebook and graphs are in https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA15/Images/
 
 
 
