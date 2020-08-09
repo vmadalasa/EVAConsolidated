@@ -177,7 +177,7 @@ Didnt do a good job on model evaluation.
 
 Model : https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS15/unet.py
 
-Colab : https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS15/ImageSegmentation.ipynb
+Colab : https://github.com/vmadalasa/EVAConsolidated/blob/master/EVA15/ImageSeg_using_UNET_MVEVA15.ipynb
 
 Train, test, dataloader , Albumentation, trans : https://github.com/vmadalasa/EVAConsolidated/blob/master/EVAS15/Code/utils.py
 
